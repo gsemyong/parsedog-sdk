@@ -1,0 +1,5 @@
+---
+"parsedog": patch
+---
+
+Fixing publishing
